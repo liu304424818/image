@@ -1,1 +1,1 @@
-FROM zabbix/zabbix-java-gateway:latest
+FROM zabbix/zabbix-java-gateway:alpine-7.0-latest
