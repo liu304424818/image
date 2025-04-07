@@ -1,1 +1,1 @@
-FROM zabbix/zabbix-web-nginx-mysql:latest
+FROM zabbix/zabbix-web-nginx-mysql:alpine:7.0-latest
